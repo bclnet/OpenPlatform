@@ -1,17 +1,21 @@
-# Platform Objects
+Platform Objects
+===============
 
+TBD
 
-## Object Builder
+---
+
+## [`API Layer`](API/Readme.md)
+* Unified API access
+
+## [`Object Builder`](Builder/Readme.md)
 * Standard & Custom Objects
 * Object Manager
 
-## API Layer
-* Unified API access
-
-## File Handling
+## [`File Handling`](Files/Readme.md)
 * FTP/SFTP Settings
 * Import & Export Wizard
 * Rotation & Purge Settings
 
-## Import & Export
+## [`Import & Export`](Import_Export/Readme.md)
 * Standard for object transfer

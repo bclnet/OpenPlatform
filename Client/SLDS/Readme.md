@@ -1,4 +1,4 @@
-AWS - Platform Hosting
+SLDS - Platform Client
 ===============
 
 TBD

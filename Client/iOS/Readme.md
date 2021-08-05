@@ -1,4 +1,4 @@
-AWS - Platform Hosting
+iOS - Platform Client
 ===============
 
 TBD
