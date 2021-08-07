@@ -1,4 +1,4 @@
-import '@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.min.css';
+import 'bootstrap/dist/css/bootstrap.css';
 
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
