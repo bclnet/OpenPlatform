@@ -7,10 +7,13 @@ Some commonly provided advocacy tools are: community tools like forums, document
 
 ---
 
-## [`Community`](Community/Readme.md)
+## [Community](Community/Readme.md)
 
-## [`Training`](Community/Readme.md)
+## [Documentation](Documentation/Readme.md)
+
+* host in github pages/wiki
+
+## [Training](Training/Readme.md)
+
 * host in github pages
 
-## [`Documentation`](Community/Readme.md)
-* host in github pages/wiki

@@ -1,26 +1,27 @@
 Platform Client
 ===============
 
-TBD
+Open Platform's is available nativly on mobile and the web.
 
 ---
 
-## [`Google Android (Android)`](Android/Readme.md)
+## [Google Android (Android)](Android/Readme.md)
+
 * Client Database
 * JsonUI
 
-## [`Apple iOS (iOS)`](iOS/Readme.md)
+## [Apple iOS (iOS)](iOS/Readme.md)
+
 * Client Database
 * JsonUI
 
 
-## [`Material Design (Material)`](Material/Readme.md)
-https://material.io/design
+## [Web](Web/Readme.md)
 
+* [Material Design](https://material.io/design) (MaterialIO)
+* [Salesforce Lightning Design System](https://www.lightningdesignsystem.com/) (SLDS)
 * Client Database
 
-
-## [`Salesforce Lightning Design System (SLDS)`](SLDS/Readme.md)
-https://www.lightningdesignsystem.com/
+## [Game Engine](Game/Readme.md) (Experimental)
 
 * Client Database

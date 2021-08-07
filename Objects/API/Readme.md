@@ -1,4 +1,4 @@
-API - Platform Object
+API - Platform Objects
 ===============
 
 TBD

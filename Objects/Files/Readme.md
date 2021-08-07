@@ -1,4 +1,4 @@
-Files - Platform Object
+Files - Platform Objects
 ===============
 
 TBD

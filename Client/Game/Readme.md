@@ -1,4 +1,4 @@
-SLDS - Platform Client
+Game - Platform Client
 ===============
 
 TBD

@@ -1,4 +1,0 @@
-Material - Platform Client
-===============
-
-TBD
