@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ScoreAddress__c</fullName>
+    <description>Address (Score)</description>
+    <externalId>false</externalId>
+    <label>Address (Score)</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>X0</fullName>
+                <default>false</default>
+                <label>Missing</label>
+            </value>
+            <value>
+                <fullName>X1</fullName>
+                <default>false</default>
+                <label>Invalid or bad address</label>
+            </value>
+            <value>
+                <fullName>A0</fullName>
+                <default>false</default>
+                <label>Residential location</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

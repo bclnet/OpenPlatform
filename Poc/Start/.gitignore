@@ -1,0 +1,33 @@
+# System files
+Thumbs.db
+Thumbs.db.meta
+*.DS_Store
+*.directory
+.vs
+.vscode
+.vsconfig
+.workspace
+.gradle
+*.zip
+*.tar.gz
+
+# Visual Studio files
+*.cachefile
+*.pidb
+*.suo
+*.unityproj
+*.user
+*.userprefs
+*.v11
+*.v12
+*.db
+*.opendb
+
+# Folder to exclude
+bin/
+obj/
+Temp/
+ipch/
+out/
+TestResults/
+__pycache__/

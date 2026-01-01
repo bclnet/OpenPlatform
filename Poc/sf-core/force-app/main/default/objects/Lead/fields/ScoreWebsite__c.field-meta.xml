@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ScoreWebsite__c</fullName>
+    <description>Website (Score)</description>
+    <externalId>false</externalId>
+    <label>Website (Score)</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>X0</fullName>
+                <default>false</default>
+                <label>Missing</label>
+            </value>
+            <value>
+                <fullName>X1</fullName>
+                <default>false</default>
+                <label>Invalid or bad domain</label>
+            </value>
+            <value>
+                <fullName>E1</fullName>
+                <default>false</default>
+                <label>Ecommerce website</label>
+            </value>
+            <value>
+                <fullName>E0</fullName>
+                <default>false</default>
+                <label>Non-ecommerce website</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

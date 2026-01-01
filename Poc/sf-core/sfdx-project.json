@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "sf-core",
+  "namespace": "",
+  "sfdcLoginUrl": "https://localhost:7019",
+  "sourceApiVersion": "64.0"
+}
