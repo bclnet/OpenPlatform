@@ -5,92 +5,92 @@ Open Platform is an open-source, cross-cloud abstract solution for delivering a 
 
 ---
 
-## [Advocacy](Advocacy/Readme.md)
+## [Advocacy](docs/advocacy/readme.md)
 
-A platform's success can be contributed to its marketing, evangelism and [Advocacy](Advocacy/Readme.md).
+A platform's success can be contributed to its marketing, evangelism and [Advocacy](docs/advocacy/readme.md).
 
 Commonly provided advocacy tools include: community tools like forums, documentation and training.
 
-* **[Community](Advocacy/Community/Readme.md)** - Community tools like forums or discord servers for fostering a user group.
-* **[Documentation](Advocacy/Documentation/Readme.md)** - Reference guides for administrators and developers.
-* **[Training](Advocacy/Training/Readme.md)** - A guided training with challenges and recognition.
+* **[Community](docs/advocacy/community/readme.md)** - Community tools like forums or discord servers for fostering a user group.
+* **[Documentation](docs/advocacy/documentation/readme.md)** - Reference guides for administrators and developers.
+* **[Training](docs/advocacy/training/readme.md)** - A guided training with challenges and recognition.
 
 
-## [Application](Application/Readme.md)
+## [Application](docs/application/readme.md)
 
 Open Platform's applications are designed in `App Builder`, a component compositing tool.
 
-* **[Builder](Application/Builder/Readme.md)** - TBD
-* **[Client](Application/Client/Readme.md)** - TBD
-* **[Objects](Application/Objects/Readme.md)** - TBD
+* **[Builder](docs/application/builder/readme.md)** - TBD
+* **[Client](docs/application/client/readme.md)** - TBD
+* **[Objects](docs/application/objects/readme.md)** - TBD
 
 
-## [Automation](Automation/Readme.md)
+## [Automation](docs/automation/readme.md)
 
 Automation tools are an important pillar in a platform`s success and enable configuration of business processes or platform scheduled and triggered events.
 
-* **[Client](Automation/Client/Readme.md)** - TBD
-* **[Flow](Automation/Flow/Readme.md)** - TBD
-* **[Objects](Automation/Objects/Readme.md)** - TBD
+* **[Client](docs/automation/client/readme.md)** - TBD
+* **[Flow](docs/automation/flow/readme.md)** - TBD
+* **[Objects](docs/automation/objects/readme.md)** - TBD
 
 
-## [Client](Client/Readme.md)
+## [Client](docs/client/readme.md)
 
 Open Platform's is available nativly on mobile and the web.
 
-* **[Google Android (Android)](Client/Android/Readme.md)** - TBD
-* **[Apple iOS (iOS)](Client/iOS/Readme.md)** - TBD
-* **[Web](Client/Web/Readme.md)** - TBD
+* **[Google Android (Android)](docs/client/android/readme.md)** - TBD
+* **[Apple iOS (iOS)](docs/client/ios/readme.md)** - TBD
+* **[Web](docs/client/web/readme.md)** - TBD
 
 
-## [Hosting](Hosting/Readme.md)
+## [Hosting](docs/hosting/readme.md)
 
 Cross-cloud stack based multi-tenant hosting is provided by Open Platform.
 
-* **[Amazon Web Services (AWS)](Hosting/AWS/Readme.md)** - TBD
-* **[Microsoft Azure (Azure)](Hosting/Azure/Readme.md)** - TBD
-* **[Sandbox](Hosting/Sandbox/Readme.md)** - TBD
-* **[Stacks](Hosting/Stacks/Readme.md)** - TBD
+* **[Amazon Web Services (AWS)](docs/hosting/aws/readme.md)** - TBD
+* **[Microsoft Azure (Azure)](docs/hosting/azure/readme.md)** - TBD
+* **[Sandbox](docs/hosting/sandbox/readme.md)** - TBD
+* **[Stacks](docs/hosting/stacks/readme.md)** - TBD
 
 
-## [Logging](Logging/Readme.md)
+## [Logging](docs/logging/readme.md)
 
 Logging tools are an important part of a platform`s success.
 
-* **[Client](Automation/Client/Readme.md)** - TBD
+* **[Client](docs/automation/client/readme.md)** - TBD
 
 
-## [Objects](Objects/Readme.md)
-
-TBD
-
-* **[API Layer](Objects/API/Readme.md)** - TBD
-* **[Object Builder](Objects/Builder/Readme.md)** - TBD
-* **[File Handling](Objects/Files/Readme.md)** - TBD
-* **[Import & Export](Objects/Import_Export/Readme.md)** - TBD
-* **[Security](Objects/Security/Readme.md)** - TBD
-
-
-## [Office](Office/Readme.md)
+## [Objects](docs/objects/readme.md)
 
 TBD
 
-* **[Billing & Stats](Office/Billing_Stats/Readme.md)** - TBD
-* **[Client](Office/Client/Readme.md)** - TBD
-* **[License](Office/License/Readme.md)** - TBD
-* **[Registry](Office/Registry/Readme.md)** - TBD
+* **[API Layer](docs/objects/api/readme.md)** - TBD
+* **[Object Builder](docs/objects/builder/readme.md)** - TBD
+* **[File Handling](docs/objects/files/readme.md)** - TBD
+* **[Import & Export](docs/objects/import_export/readme.md)** - TBD
+* **[Security](docs/objects/security/readme.md)** - TBD
 
 
-## [Reporting](Reporting/Readme.md)
+## [Office](docs/office/readme.md)
+
+TBD
+
+* **[Billing & Stats](docs/office/billing_stats/readme.md)** - TBD
+* **[Client](docs/office/client/readme.md)** - TBD
+* **[License](docs/office/license/readme.md)** - TBD
+* **[Registry](docs/office/registry/readme.md)** - TBD
+
+
+## [Reporting](docs/reporting/readme.md)
 
 Reporting is an essential part of a platform.
 
-* **[Client](Reporting/Client/Readme.md)** - TBD
+* **[Client](docs/reporting/client/readme.md)** - TBD
 
 
-## [Services](Services/Readme.md)
+## [Services](docs/services/readme.md)
 
 A platform provides some essential services.
 
-* **[External Services](Services/External_Services/Readme.md)** - TBD
-* **[Platform Events](Services/Platform_Events/Readme.md)** - TBD
+* **[External Services](docs/services/externalServices/readme.md)** - TBD
+* **[Platform Events](docs/services/platformEvents/readme.md)** - TBD

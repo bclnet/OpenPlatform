@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Open.Api/Open.Api.csproj" />
+  <Project Path="Open.Core/Open.Core.csproj" Id="70d713a1-7f85-490c-8302-1c1d97c1a383" />
+  <Project Path="Open.Soql/Open.Soql.csproj" />
+  <Project Path="Open.SoqlTest/Open.SoqlTest.csproj" Id="64a72503-42ca-4bd1-9466-df643627cd1e" />
+  <Project Path="Open.Tests/Open.Tests.csproj" Id="893b1e30-4a2e-40cb-aee3-439994e67d4b" />
+</Solution>
