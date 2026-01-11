@@ -310,6 +310,7 @@ LIMIT 100";
 /// </summary>
 public class Program {
     public static async Task Main(string[] args) {
+        args = ["Host=localhost;Database=crm;Username=postgres;Password=password"];
         // Configuration
         var connectionString = GetConnectionString(args);
         if (string.IsNullOrEmpty(connectionString)) {
